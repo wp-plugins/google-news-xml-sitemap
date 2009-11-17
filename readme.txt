@@ -1,4 +1,4 @@
-=== Google News XML Sitemap Plugin ===
+=== Google News XML Sitemap ===
 
 Author: Chicago Press Release Services
 Contributors: 
@@ -6,7 +6,7 @@ Donate link: http://chicagopressrelease.com/about/google-news-xml-sitemap-plugin
 Tags: google news sitemap, google news, sitemap xml
 Requires at least: 2.6
 Tested up to: 2.8.6
-stable tag: 1.0.0
+stable tag: 1.0.1
 
 Automatically generate a non-deprecated (new format) XML sitemap for inclusion to Google News.
 
