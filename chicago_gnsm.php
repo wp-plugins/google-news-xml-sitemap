@@ -4,7 +4,7 @@
 	Plugin Name: Google News XML Sitemap
 	Plugin URI: http://chicagopressrelease.com/about/google-news-xml-sitemap-plugin-for-wordpress
 	Description: Automatically generate XML sitemap for inclusion to newly formatted Google News. Visit <a href="options-general.php?page=chicago_gnsm.php">Settings >> Google News XML Sitemap</a> for configuration.
-	Version: 1.0.0
+	Version: 1.0.1
 	Author: Chicago Press Release Services
 	Author URI: http://chicagopressrelease.com
 	Contributors:
