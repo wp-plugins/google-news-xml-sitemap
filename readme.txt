@@ -3,10 +3,10 @@
 Author: Chicago Press Release Services
 Contributors: 
 Donate link: http://chicagopressrelease.com/about/google-news-xml-sitemap-plugin-for-wordpress
-Tags: google news sitemap, google news, sitemap xml
+Tags: google news sitemap, google news, xml sitemap
 Requires at least: 2.6
 Tested up to: 2.8.6
-stable tag: 1.0.1
+stable tag: 1.0.2
 
 Automatically generate a non-deprecated (new format) XML sitemap for inclusion to Google News.
 
@@ -31,22 +31,22 @@ More info:
 
 **Changelog**
 
+= 1.0.2 =
+*sitemap populates post tags as news article keywords.
+*fixed coding inconsistencies, improved plugin stability.
+
 = 1.0.0 =
 * htmlspecialchars added in title tag.
 * graphic upgrade of admin interface.
+* news sitemap automatically pings Google Webmaster tools.
+
+= 1.0.0 =
 * Fixed genres select option bug.
 * graphic upgrade of admin interface.
 
 == Installation ==
 
 Download, Upgrade and Installation:
-
-**Upgrade**
-
-1. Update the Google News XML Sitemap plugin as soon as new versions become available
-1. Deactivate the current version of Google News XML Sitemap
-1. Delete deactivated plugin
-1. Reinstall updated version of Google News XML Sitemap plugin
 
 **Install**
 
@@ -56,6 +56,13 @@ Download, Upgrade and Installation:
 
 1. Visit plugins plage in the WordPress administration area of your Web site
 1. Activate Google News XML Sitemap plugin and configuration page will appear in the settings menu
+
+**Upgrade**
+
+1. Update the Google News XML Sitemap plugin as soon as new versions become available
+1. Deactivate the current version of Google News XML Sitemap
+1. Delete deactivated plugin
+1. Reinstall updated version of Google News XML Sitemap plugin
 
 **Advanced Users**
 
