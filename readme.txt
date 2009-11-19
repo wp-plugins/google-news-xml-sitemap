@@ -32,8 +32,8 @@ More info:
 **Changelog**
 
 = 1.0.2 =
-*sitemap populates post tags as news article keywords.
-*fixed coding inconsistencies, improved plugin stability.
+* sitemap populates post tags as news article keywords.
+* fixed coding inconsistencies, improved plugin stability.
 
 = 1.0.0 =
 * htmlspecialchars added in title tag.
